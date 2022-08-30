@@ -20,10 +20,10 @@ for cartpole
 3. DRL.basic.optuna.4.0.ipynb: Jupyter notebook containing the Optuna study evaluating hyperparameters for 
 the Q-learning agent
 
-4. DRL.basic.vis.0.0.ipynb: Jupyter notebook containing data visuliastions for different Q-learning policies 
+4. DRL.basic.vis.0.0.ipynb: Jupyter notebook containing data visulisations for different Q-learning policies 
 trained on Cartpole-v1
 
-5. DRL.discrete.4.0.ipynb: Jupyter notebook containing discrete hyperparameter evalution and visualisations for 
+5. DRL.discrete.4.0.ipynb: Jupyter notebook containing discrete hyperparameter evaluations and visualisations for 
 reference model trained on Cartpole-v1
 
 6. vid_tools.py: Python file containing functions for recording the Q-learning agents with the reference 
